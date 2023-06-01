@@ -82,7 +82,7 @@
     "@types/event-source-polyfill": "1.0.1",
     "@types/express": "4.17.17",
     "@types/fs-extra": "9.0.13",
-    "@types/google.maps": "3.52.1",
+    "@types/google.maps": "3.53.2",
     "@types/jasmine": "4.3.1",
     "@types/jest": "29.4.1",
     "@types/lodash": "4.14.195",
